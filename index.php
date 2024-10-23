@@ -11,3 +11,5 @@ echo $user->data();
 echo $user->teste();
 
 echo "Alterado no github";
+
+echo "Alterado no VSCode";
