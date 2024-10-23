@@ -13,3 +13,5 @@ echo $user->teste();
 echo "Alterado no github";
 
 echo "Alterado no VSCode";
+
+echo "Teste final para garantir";
