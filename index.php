@@ -9,3 +9,5 @@ $user = new User();
 echo $user->data();
 
 echo $user->teste();
+
+echo "Alterado no github";
