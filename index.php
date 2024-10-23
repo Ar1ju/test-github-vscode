@@ -10,4 +10,4 @@ echo $user->data();
 
 echo $user->teste();
 
-Essa frase foi escrita no github
+echo "Alterado no github";
