@@ -9,7 +9,3 @@ $user = new User();
 echo $user->data();
 
 echo $user->teste();
-
-?>
-
-<p>Alterado no vscode</p>
