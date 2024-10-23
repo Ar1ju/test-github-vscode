@@ -9,3 +9,5 @@ $user = new User();
 echo $user->data();
 
 echo $user->teste();
+
+Essa frase foi escrita no github
